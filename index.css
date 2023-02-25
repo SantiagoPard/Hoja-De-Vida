@@ -32,12 +32,9 @@ li{
     margin-right: 160px;
     font-size: x-large;
 }
+
 #uno{
     position: sticky;
     top:0;
-    border-style:hidden;
-    border-radius: 20px;
-    box-sizing: unset;
-    background-color: antiquewhite;
-    
+      
 }
