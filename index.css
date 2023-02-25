@@ -6,3 +6,17 @@
 img{
     border-radius: 20px;
 }
+.bordes{  
+    border-style:solid;
+    background-color: antiquewhite;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.textright{
+    text-align: right;
+    margin-top: -40px;
+    margin-right: 160px;
+}
+h3{
+    margin-left: 160px;
+}
